@@ -3,6 +3,6 @@
 
 - 📚 I’m currently studying on [Faculty of electrical engineering CTU](https://fel.cvut.cz/en)
 
-- 👻 Contributing to [St.Dio](https://stdio.cz/)
+- 👻 Working in [St.Dio](https://stdio.cz/)
 
 - 📫 How to reach me **vojtech.linha@gmail.com**
